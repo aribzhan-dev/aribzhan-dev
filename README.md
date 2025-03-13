@@ -24,7 +24,7 @@
 
 <h1 align="left">🌐 Connect with me:</h1>
 <p align="left">
-<a href="https://instagram.com/mr__jahongir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram Profile" height="30" width="40" /></a>
+<a href="https://instagram.com/aribzhan_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram Profile" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/Aribzhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode Profile" height="30" width="40" /></a>
 <a href="https://wa.me/77079928009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="30" width="40" /></a>
 </p>
