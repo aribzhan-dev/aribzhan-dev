@@ -78,7 +78,3 @@
 </p>
 
 
-## 👁️ Number of visits:
-<p align="center">
-   <img src="https://profile-counter.glitch.me/{aribzhan-dev}/count.svg"/>
-</p>
