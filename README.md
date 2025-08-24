@@ -7,13 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aribzhan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="aribzhan-dev" /> </p>
 
-- 🔭 I’m currently learning MongoDb
+- 🔭 I’m currently learning FastAPI
 
-- 💻 I can build Telegram bots, Django Projects, Web Sites
+- 💻 I can build Telegram bots, Django Projects, Web Sites 
 
 - 🌱 I want to learn **blockchain**
-
-- ⚡ Fun fact: **I am funny**
 
 </br>
 
@@ -70,9 +68,7 @@
   </a> 
 </p>
 
-</br><h1 tabindex="-1" style="font-size: 2em">📊 LeetCode Stats:</h1>
 
-<a href="https://leetcode.com/u/Aribzhan/">![Leetcode Stats](https://leetcard.jacoblin.cool/Aribzhan ?theme=dark)</a>
 
 <h1 align="left">📊 GitHub Stats:</h1>
 <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aribzhan-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
