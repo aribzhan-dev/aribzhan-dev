@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aribzhan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="aribzhan-dev" /> </p>
 
-- 🔭 I’m currently learning FastAPI
+- 🔭 I’m currently learning Some think interesting
 
 - 💻 I can build Telegram bots, Django Projects, Web Sites 
 
