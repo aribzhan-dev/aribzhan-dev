@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aribzhan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="aribzhan-dev" /> </p>
 
-- 🔭 I’m currently learning Some think interesting
+- 🔭 I’m currently learning Some thing interesting
 
-- 💻 I can build Telegram bots, Django Projects, Web Sites 
+- 💻 I can build Telegram bots, Python projects, Web Sites,Mobile Apps,  
 
 - 🌱 I want to learn **blockchain**
 
