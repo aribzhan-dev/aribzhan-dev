@@ -68,6 +68,15 @@
   </a> 
 </p>
 
+<h1 align="left">📊 GitHub Stats:</h1>
+<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aribzhan-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aribzhan-dev&show_icons=true&locale=en" alt="aribzhan-dev" /></p>
+
+</p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aribzhan-dev" alt="aribzhan-dev" /></a> </p>
+
 
 </p>
 
