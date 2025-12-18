@@ -26,7 +26,6 @@ Building backend systems, APIs and real products 🚀
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
 </p>
 
 ### 🔹 Databases
