@@ -26,12 +26,16 @@ Building backend systems, APIs and real products 🚀
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" width="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/drf.svg" width="40"/>
 </p>
 
 ### 🔹 Databases
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongo/mongo-original.svg" width="40"/>
 </p>
 
 ### 🔹 DevOps & Tools
@@ -45,6 +49,7 @@ Building backend systems, APIs and real products 🚀
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/js-original.svg" width="40"/>
 </p>
 
 
