@@ -33,6 +33,7 @@ Building backend systems, APIs and real products 🚀
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
 </p>
 
 ### 🔹 DevOps & Tools
@@ -46,6 +47,7 @@ Building backend systems, APIs and real products 🚀
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
 </p>
 
 
@@ -87,4 +89,11 @@ Building backend systems, APIs and real products 🚀
 ---
 
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+
+
+
+
+
+
 
