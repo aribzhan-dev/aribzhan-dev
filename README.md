@@ -50,12 +50,12 @@ learning:  [ "Kubernetes", "System Design", "Blockchain fundamentals" ]
 motto:     "Ship real products, not toy projects."
 ```
 
-- 🔭 &nbsp;Backend API'lar, avtomatlashtirish va integratsiyalar ustida ishlayapman
-- ⚙️ &nbsp;DevOps: Docker, CI/CD pipeline, Nginx, Linux serverlar
-- 📱 &nbsp;Flutter + Dart bilan mobil ilovalar quryapman
-- 🧠 &nbsp;TypeScript bilan full-stack tomonga kengayib boryapman
-- 🌐 &nbsp;To'liq ishlarim va case study'larim → **[aribzhan.kz](https://aribzhan.kz)**
-- 🎯 &nbsp;Maqsad: production-ready, real foydalanuvchilarga xizmat qiladigan mahsulotlar
+- 🔭 &nbsp;Currently building backend APIs, automation tools and integrations
+- ⚙️ &nbsp;DevOps: Docker, CI/CD pipelines, Nginx, Linux servers
+- 📱 &nbsp;Developing mobile apps with Flutter & Dart
+- 🧠 &nbsp;Expanding into full-stack with TypeScript
+- 🌐 &nbsp;Full case studies and selected work → **[aribzhan.kz](https://aribzhan.kz)**
+- 🎯 &nbsp;Goal: production-ready products that serve real users
 
 <br/>
 
@@ -114,14 +114,27 @@ motto:     "Ship real products, not toy projects."
 
 <div align="center">
   <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=aribzhan-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB"
-    alt="github stats"
+    height="200"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aribzhan-dev&theme=tokyonight"
+    alt="stats"
   />
   <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aribzhan-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&bg_color=0D1117&title_color=58A6FF"
-    alt="top languages"
+    height="200"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aribzhan-dev&theme=tokyonight&utcOffset=5"
+    alt="productive time"
+  />
+</div>
+
+<div align="center">
+  <img
+    height="200"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aribzhan-dev&theme=tokyonight"
+    alt="repos per language"
+  />
+  <img
+    height="200"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aribzhan-dev&theme=tokyonight"
+    alt="most commit language"
   />
 </div>
 
@@ -129,20 +142,6 @@ motto:     "Ship real products, not toy projects."
   <img
     src="https://streak-stats.demolab.com?user=aribzhan-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=1F6FEB&currStreakLabel=58A6FF"
     alt="streak stats"
-  />
-</div>
-
-<div align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=aribzhan-dev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6"
-    alt="trophies"
-  />
-</div>
-
-<div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=aribzhan-dev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true"
-    alt="activity graph"
   />
 </div>
 
@@ -155,16 +154,16 @@ motto:     "Ship real products, not toy projects."
 
 | Project | Description | Stack |
 |:--|:--|:--|
-| **[Portfolio — aribzhan.kz](https://aribzhan.kz)** | Shaxsiy portfolio sayt, ishlarim va case study'lar | `Web` `Responsive` `SEO` |
-| **Backend APIs** | REST servislar, autentifikatsiya, biznes logika | `FastAPI` `Django` `PostgreSQL` |
-| **Telegram Bots** | Avtomatlashtirish, bildirishnomalar, integratsiyalar | `Python` `aiogram` `Redis` |
+| **[Portfolio — aribzhan.kz](https://aribzhan.kz)** | Personal portfolio site with selected work and case studies | `Web` `Responsive` `SEO` |
+| **Backend APIs** | REST services, authentication, business logic | `FastAPI` `Django` `PostgreSQL` |
+| **Telegram Bots** | Automation, notifications, third-party integrations | `Python` `aiogram` `Redis` |
 
 ### 🔮 Coming Soon
 
 | Project | Description | Stack |
 |:--|:--|:--|
-| **DoItly** 📋 | Productivity & task-management ilovasi | `FastAPI` `Flutter` `PostgreSQL` |
-| **Safa** 🤍 | Xayriya va donation platformasi | `Django` `Flutter` `Payments` |
+| **DoItly** 📋 | Productivity and task-management application | `FastAPI` `Flutter` `PostgreSQL` |
+| **Safa** 🤍 | Charity and donation platform with secure backend | `Django` `Flutter` `Payments` |
 
 <br/>
 
