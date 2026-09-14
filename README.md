@@ -208,18 +208,6 @@ motto:     "Ship real products, not toy projects."
 
 <br/>
 
-<!-- ======================= SNAKE ======================= -->
-## 🐍 Contribution Graph
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aribzhan-dev/aribzhan-dev/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aribzhan-dev/aribzhan-dev/output/github-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/aribzhan-dev/aribzhan-dev/output/github-snake.svg" />
-  </picture>
-</div>
-
-<br/>
 
 <!-- ======================= FOOTER ======================= -->
 <div align="center">
