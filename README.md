@@ -68,7 +68,7 @@ Based in **Astana, Kazakhstan**. Open to projects and collaboration.
       <p>A Kazakh-language charity and sadaqa app bringing help requests, foundations and donation collections into one feed.</p>
       <p><b>My contribution: backend development.</b> A collaborative mobile project; the app overview and interface reference are from <a href="https://github.com/DevZair">DevZair</a>.</p>
       <p><code>Backend API</code> <code>Charity platform</code> <code>Team project</code></p>
-      <p><a href="https://github.com/DevZair/Safa.app">Mobile app repository</a></p>
+      <p><a href="https://github.com/aribzhan-dev/Safa">My backend</a> · <a href="https://github.com/DevZair/Safa.app">Mobile app repository</a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/aribzhan-dev/doltly-backend"><img src="assets/doitly.png" width="100%" alt="DoItly team task manager — my contribution: backend development." /></a>
