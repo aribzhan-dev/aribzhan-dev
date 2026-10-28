@@ -63,7 +63,7 @@ Based in **Astana, Kazakhstan**. Open to projects and collaboration.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/DevZair/Safa.app"><img src="assets/safa.png" width="100%" alt="Safa charity app — my contribution: backend development." /></a>
+      <a href="https://github.com/aribzhan-dev/Safa"><img src="assets/safa.png" width="100%" alt="Safa charity app — my contribution: backend development." /></a>
       <h3>Safa</h3>
       <p>A Kazakh-language charity and sadaqa app bringing help requests, foundations and donation collections into one feed.</p>
       <p><b>My contribution: backend development.</b> A collaborative mobile project; the app overview and interface reference are from <a href="https://github.com/DevZair">DevZair</a>.</p>
